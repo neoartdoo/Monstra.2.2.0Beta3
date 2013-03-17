@@ -1,11 +1,12 @@
-monstra-Serbian-Language-v2.1.3
+monstra-Serbian-Language-v2.2.0 Beta
 ===============================
 Autor: Panić Marjan 
-Email: panic.marjan (at) gmail.com
+Email: marjan (et) mapadesign.com
+Autor url: www.mapadesign.com
 
 Monstra Serbian language not official, but we hope to one day be part of Monstra :) 
 
 http://www.monstra.org
 
 
-Monstra Serbian Language v2.1.3
+Monstra Serbian Language v2.2.0 Beta
